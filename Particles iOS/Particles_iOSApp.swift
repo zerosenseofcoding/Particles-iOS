@@ -2,7 +2,7 @@
 //  Particles_iOSApp.swift
 //  Particles iOS
 //
-//  Created by Akshat Srivastava on 15/12/25.
+//  Created by @ZeroSenseOfCoding on 15/12/25.
 //
 
 import SwiftUI
