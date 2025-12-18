@@ -1,5 +1,5 @@
 # Particles - Hand-Tracked 3D Particle Simulation
-A native macOS application built with SwiftUI, SceneKit, and Vision Framework that renders a 3D interactive particle system. Users can control the simulation using hand gestures captured via the webcam—pinch to zoom (scale) and grab to rotate.
+A native iOS application built with SwiftUI, SceneKit, and Vision Framework that renders a 3D interactive particle system. Users can control the simulation using hand gestures captured via the webcam—pinch to zoom (scale) and grab to rotate.
 
 ## 🎥 Features
 - **Real-time Hand Tracking**: Uses Apple's Vision framework to detect hand landmarks (index finger and thumb) from the webcam feed.
@@ -17,7 +17,7 @@ A native macOS application built with SwiftUI, SceneKit, and Vision Framework th
 - **UI Framework**: SwiftUI
 - **3D Engine**: SceneKit
 - **Computer Vision**: Vision (VNDetectHumanHandPoseRequest) & AVFoundation
-- **Platform**: macOS 12.0+ (optimized for Apple Silicon & Intel)
+- **Platform**: iOS 17.6+ (optimized for Apple Silicon & Intel)
 
 ## 🚀 Installation & Setup
 1. **Clone the Repository**:
